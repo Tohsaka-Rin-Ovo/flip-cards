@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>FlipMemories</title>
+    <item>
+      <title>0.2.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://raw.githubusercontent.com/Tohsaka-Rin-Ovo/flip-cards/main/downloads/v0.2.0/FlipMemories-v0.2.0.zip" length="3090429" type="application/octet-stream" sparkle:edSignature="g4V2iusdhXpzkHJtlt8pNlb1NCnv8UvE14/0dRxEUOE6wEOsQwac1XVKTDY/Nyah15K2B872mFvpblUodauHBA==" />
+    </item>
+  </channel>
+</rss>
